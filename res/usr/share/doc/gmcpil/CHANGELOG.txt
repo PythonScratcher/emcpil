@@ -1,0 +1,38 @@
+v0.14.0:
++ New bug fixes
++ Better GUI
++ Better responce
++ Less Crasshes/Lag (Latency) 
+v0.13.0:
+ + Rewritten in Vala.
+ + More refactoring.
+ + Fixed various bugs.
+
+v0.12.0:
+ + New, fancy GUI.
+ + Lots of "refactoring".
+
+v0.11.1:
+ + Internal code changes.
+ + First official amd64 build.
+
+v0.11.0:
+ + Added option to hide the launcher.
+ + Fixed multiplayer on non-ARM systems.
+
+v0.10.2:
+ + Fixed bug that mixed HUD and username settings.
+
+v0.10.1:
+ + Added Gallium HUD options to the Settings tab.
+
+v0.10.0:
+ + Added MCPI-Reborn 2.0 compatibility.
+ + Settings are now saved in a single JSON file.
+ + Changed directory structure to use `gmcpil` instead of `mcpil`.
+
+v0.9.0:
+ + Rewritten in C.
+ + Rewritten interface in GTK.
+ + Added proxy-free multiplayer.
+ + Added "Featured servers".
